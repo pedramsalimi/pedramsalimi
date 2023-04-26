@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pedramsalimi
 - 👀 I’m interested in NLP, NLG, Conversational AI
-- 🌱 I’m currently learning about NLG and Conversational AI
+- 🌱 I’m currently working on NLG and Conversational AI
 - 💞️ I’m looking to collaborate on intresting NLP projects
 - 📫 You can reach me by this email: pedramsalimi.ai@gmail.com
 
